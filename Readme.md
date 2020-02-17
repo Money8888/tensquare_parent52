@@ -1,4 +1,4 @@
-* 该项目是关于论坛业务的开发，属于JAVA的SpringCloud微服务项目
+* 该项目是关于论坛业务的开发，属于JAVA后端的SpringCloud微服务项目
 
 * 所用技术:Redis、MongoDB、RabbitMq、ElasticSearch、SpringCloud组件、dl4j深度学习、CNN，springdata-jpa、webmagic爬虫框架、jwt身份认证、分布式id、阿里云短信发送、BCrypt密码加密算法
 
