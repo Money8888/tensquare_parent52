@@ -1,0 +1,5 @@
+server:
+  port: 8096
+spring:
+  rabbitmq:
+    host: localhost

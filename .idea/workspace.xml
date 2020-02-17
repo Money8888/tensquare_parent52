@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cfb74c0-8eb2-472d-bcfc-c683a9904b6a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_common/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_base/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_recruit/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_qa/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_article/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_gathering/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_spit/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_search1/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_find/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_rabbitmqtest/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_user/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_sms/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_eureka/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_friend/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_manager/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_web/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_config/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_webmagic/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_webmagictest/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_article_crawler/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_user_crawler/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_ai/target/" />
+    <ignored path="$PROJECT_DIR$/tensquare_ai_test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/controller/CnnController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pipeline/ArticleDbPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="33" column="73" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/task/ArticleTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/task/TrainTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/CnnService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/Word2VecService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/AiApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@Tra</find>
+      <find>#</find>
+      <find>Pageable</find>
+      <find>tensquare_qa</find>
+      <find>SmsUtil</find>
+      <find>native</find>
+      <find>&quot;role&quot;</find>
+      <find>&quot;roles&quot;</find>
+      <find>90</find>
+      <find>@V</find>
+      <find>@Value</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tensquare_user/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_web/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_eureka/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_friend/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_manager/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_qa/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_user/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_web/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_find/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_find/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/tensquare_config/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare_base/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_base/src/main/java/com/tensquare/base/controller/LabelController.java" />
+        <option value="$PROJECT_DIR$/tensquare_webmagictest/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_common/src/test/java/com/tensquare/webmagic/Processor.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pojo/Column.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/dao/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/dao/ChannelDao.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/dao/ColumnDao.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/processor/ArticleProcessor.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/ArticleCrawlerApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/UserCrawlerApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/pojo/User.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/dao/AdminDao.java" />
+        <option value="$PROJECT_DIR$/tensquare_common/src/main/java/util/DownloadUtil.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/processor/UserProcessor.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/pipeline/UserPipeline.java" />
+        <option value="$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/task/UserTask.java" />
+        <option value="$PROJECT_DIR$/tensquare_common/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_common/src/test/java/com/tensquare/ai/aiTest.java" />
+        <option value="$PROJECT_DIR$/tensquare_common/src/main/java/util/IKUtil.java" />
+        <option value="$PROJECT_DIR$/tensquare_common/src/main/java/util/HTMLUtil.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/task/ArticleTextTask.java" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/util/CnnUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/controller/CnnController.java" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/AiApplication.java" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pipeline/ArticleTextPipeline.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pipeline/ArticleDbPipeline.java" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/CnnService.java" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/task/TrainTask.java" />
+        <option value="$PROJECT_DIR$/tensquare_ai/pom.xml" />
+        <option value="$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/Word2VecService.java" />
+        <option value="$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/task/ArticleTask.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\apache-maven-3.5.4\repository" />
+        <option name="mavenHome" value="D:/Java/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="540" />
+    <option name="y" value="2" />
+    <option name="width" value="886" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_user_crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_user_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_user_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
+              <item name="tensquare_user_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tensquare.friend.controller" />
+      <recent name="com.tensquare.friend.dao" />
+      <recent name="com.tensquare.friend.pojo" />
+      <recent name="com.tensquare.friend.interceptor" />
+      <recent name="com.tensquare.qa.interceptor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\tensquare_parent52" />
+      <recent name="D:\JavaProject\tensquare_parent52\tensquare_common\src\main\java\util" />
+      <recent name="D:\JavaProject\tensquare_parent52\tensquare_user_crawler\src\main\java\com\tensquare\usercrawler" />
+      <recent name="D:\JavaProject\tensquare_parent52\tensquare_article_crawler\src\main\java\com\tensquare\articlecrawler" />
+      <recent name="D:\JavaProject\tensquare_parent52\tensquare_find\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ArticleCrawlerApplication">
+    <configuration name="Processor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tensquare.webmagic.Processor" />
+      <module name="tensquare_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.webmagic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tensquare.ai.aiTest" />
+      <module name="tensquare_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_ai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.ai.AiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="BACKEND_PRIORITY_CPU" />
+          <option name="value" value="110" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="BACKEND_PRIORITY_GPU" />
+          <option name="value" value="0" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleCrawlerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_article_crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.articlecrawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.articlecrawler.ArticleCrawlerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCrawlerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_user_crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.usercrawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.usercrawler.UserCrawlerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Processor" />
+      <item itemvalue="Application.aiTest" />
+      <item itemvalue="Spring Boot.ArticleCrawlerApplication" />
+      <item itemvalue="Spring Boot.UserCrawlerApplication" />
+      <item itemvalue="Spring Boot.AiApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ArticleCrawlerApplication" />
+        <item itemvalue="Spring Boot.AiApplication" />
+        <item itemvalue="Application.aiTest" />
+        <item itemvalue="Spring Boot.UserCrawlerApplication" />
+        <item itemvalue="Application.Processor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cfb74c0-8eb2-472d-bcfc-c683a9904b6a" name="Default Changelist" comment="" />
+      <created>1578229540631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578229540631</updated>
+      <workItem from="1578229545661" duration="7626000" />
+      <workItem from="1578313795264" duration="7601000" />
+      <workItem from="1578379876279" duration="21000" />
+      <workItem from="1578382179237" duration="5657000" />
+      <workItem from="1578399938490" duration="2615000" />
+      <workItem from="1578402768609" duration="4704000" />
+      <workItem from="1578489531570" duration="5014000" />
+      <workItem from="1578621137741" duration="13000" />
+      <workItem from="1578622514973" duration="28000" />
+      <workItem from="1579576550865" duration="12672000" />
+      <workItem from="1580121785377" duration="1969000" />
+      <workItem from="1580286303531" duration="3233000" />
+      <workItem from="1580366515865" duration="612000" />
+      <workItem from="1580367136885" duration="47000" />
+      <workItem from="1580367230549" duration="13005000" />
+      <workItem from="1580438094914" duration="23731000" />
+      <workItem from="1580522869253" duration="22354000" />
+      <workItem from="1580611205025" duration="16311000" />
+      <workItem from="1580698746593" duration="5882000" />
+      <workItem from="1580705959804" duration="7587000" />
+      <workItem from="1580783686222" duration="15221000" />
+      <workItem from="1580866169594" duration="14577000" />
+      <workItem from="1580892803279" duration="8205000" />
+      <workItem from="1580909656092" duration="70000" />
+      <workItem from="1580909770227" duration="202000" />
+      <workItem from="1580910079066" duration="1885000" />
+      <workItem from="1580959020623" duration="21224000" />
+      <workItem from="1581129952548" duration="25149000" />
+      <workItem from="1581222187356" duration="13292000" />
+      <workItem from="1581414687162" duration="2142000" />
+      <workItem from="1581417227054" duration="2700000" />
+      <workItem from="1581429660450" duration="1577000" />
+      <workItem from="1581467333196" duration="1242000" />
+      <workItem from="1581470456128" duration="15830000" />
+      <workItem from="1581494139194" duration="4212000" />
+      <workItem from="1581558054224" duration="527000" />
+      <workItem from="1581558851433" duration="1136000" />
+      <workItem from="1581564642670" duration="972000" />
+      <workItem from="1581908445524" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProduceTest_sendMsg - 2020.01.30 at 20h 58m 12s.xml">
+      <configuration name="ProduceTest.sendMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg - 2020.01.30 at 21h 09m 07s.xml">
+      <configuration name="ProduceTest.sendMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg - 2020.01.30 at 21h 09m 31s.xml">
+      <configuration name="ProduceTest.sendMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg - 2020.01.30 at 21h 09m 54s.xml">
+      <configuration name="ProduceTest.sendMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg - 2020.01.30 at 21h 10m 12s.xml">
+      <configuration name="ProduceTest.sendMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg2 - 2020.01.30 at 21h 20m 59s.xml">
+      <configuration name="ProduceTest.sendMsg2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg3 - 2020.01.31 at 11h 27m 59s.xml">
+      <configuration name="ProduceTest.sendMsg3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg3 - 2020.01.31 at 11h 29m 03s.xml">
+      <configuration name="ProduceTest.sendMsg3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg3 - 2020.01.31 at 11h 29m 27s.xml">
+      <configuration name="ProduceTest.sendMsg3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProduceTest_sendMsg3 - 2020.01.31 at 11h 30m 04s.xml">
+      <configuration name="ProduceTest.sendMsg3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271018000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9009077" weight="0.049099836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2618658" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.09909228" side_tool="true" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924356" weight="0.45335516" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.37367624" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.48562783" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12832929" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5690789" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4140753" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.37367624" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.38653556" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tensquare_qa/src/main/java/com/tensquare/qa/interceptor/JwtInterceptor.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/Word2VecService.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>new File(&quot;D:\\JavaProject\\tensquare_parent52\\article_model&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new File(wordLib)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>FileUtil.getFiles(dataPath)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>List&lt;String&gt; fileNames = FileUtil.getFiles(dataPath)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ComputationGraph model = ModelSerializer.restoreComputationGraph(cnnModel);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content = IKUtil.spilt(content, &quot; &quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content.get(&quot;content&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new File(dataPath + &quot;/&quot; + channelId + &quot;/&quot; + UUID.randomUUID() + &quot;.txt&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>labelService.findAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pojo/Article.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pojo/Channel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/dao/ChannelDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/dao/ColumnDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pojo/Column.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_sms/src/main/java/com/tensquare/sms/listener/SmsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/dao/ArticleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/pojo/Admin.java" />
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/dao/AdminDao.java" />
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/UserCrawlerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/pipeline/UserPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_common/src/main/java/util/DownloadUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1633#1634#0" expanded="true" />
+            <element signature="e#1660#1661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/processor/UserProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/java/com/tensquare/usercrawler/task/UserTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_find/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_common/src/test/java/com/tensquare/ai/aiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_common/src/main/java/util/HTMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/task/ArticleTextTask.java" />
+    <entry file="file://$PROJECT_DIR$/tensquare_find/src/main/java/com/tensquare/find/dao/ArticleFindDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk_1.8/jre/lib/charsets.jar!/sun/awt/HKSCS.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_user_crawler/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai_test/src/main/java/com/tensquare/ai/util/CnnUtil.java" />
+    <entry file="file://$PROJECT_DIR$/tensquare_find/src/main/java/com/tensquare/find/service/ArticleFindService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.tensquare:tensquare_ai:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.tensquare:tensquare_ai:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.tensquare:tensquare_ai:1.0-SNAPSHOT</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.aliyun:aliyun-java-sdk-dysmsapi:jar:1.1.0</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.aliyun:aliyun-java-sdk-core:jar:3.2.8</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/io.jsonwebtoken:jjwt:jar:0.9.0</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/io.jsonwebtoken:jjwt:jar:0.9.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/io.jsonwebtoken:jjwt:jar:0.9.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/io.jsonwebtoken:jjwt:jar:0.9.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.3/com.fasterxml.jackson.core:jackson-core:jar:2.9.3</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/org.apache.httpcomponents:httpclient:jar:4.5.5</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.9</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/us.codecraft:xsoup:jar:0.3.1</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/us.codecraft:xsoup:jar:0.3.1/org.jsoup:jsoup:jar:1.8.3</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/org.jsoup:jsoup:jar:1.10.3</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-core:jar:0.7.3/com.alibaba:fastjson:jar:1.2.28</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-extension:jar:0.7.3</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-extension:jar:0.7.3/redis.clients:jedis:jar:2.9.0</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/us.codecraft:webmagic-extension:jar:0.7.3/redis.clients:jedis:jar:2.9.0/org.apache.commons:commons-pool2:jar:2.5.0</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.janeluo:ikanalyzer:jar:2012_u6</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.janeluo:ikanalyzer:jar:2012_u6/org.apache.lucene:lucene-core:jar:4.7.2</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.janeluo:ikanalyzer:jar:2012_u6/org.apache.lucene:lucene-queryparser:jar:4.7.2</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.janeluo:ikanalyzer:jar:2012_u6/org.apache.lucene:lucene-queryparser:jar:4.7.2/org.apache.lucene:lucene-queries:jar:4.7.2</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.janeluo:ikanalyzer:jar:2012_u6/org.apache.lucene:lucene-queryparser:jar:4.7.2/org.apache.lucene:lucene-sandbox:jar:4.7.2</node>
+            <node x="" y="">com.tensquare:tensquare_common:jar:1.0-SNAPSHOT/com.janeluo:ikanalyzer:jar:2012_u6/org.apache.lucene:lucene-analyzers-common:jar:4.7.2</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-tsne:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-tsne:jar:1.0.0-beta/org.projectlombok:lombok:jar:1.16.22</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-datasets:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-datavec-iterators:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:nearestneighbor-core:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco:javacpp:jar:1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:linux-x86:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:linux-x86_64:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:linux-ppc64le:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:macosx-x86_64:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:windows-x86:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-modelimport:jar:1.0.0-beta/org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.1-1.4.1/org.bytedeco.javacpp-presets:hdf5:jar:windows-x86_64:1.10.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-nn:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-nn:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-utility-iterators:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-nn:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-utility-iterators:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-util:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-nn:jar:1.0.0-beta/org.nd4j:nd4j-common:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.apache.commons:commons-math3:jar:3.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.apache.commons:commons-compress:jar:1.16.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.apache.commons:commons-compress:jar:1.16.1/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/com.vlkan:flatbuffers:jar:1.2.0-3f79e055</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/com.github.os72:protobuf-java-shaded-351:jar:0.9</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/com.github.os72:protobuf-java-util-shaded-351:jar:0.9</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/com.github.os72:protobuf-java-util-shaded-351:jar:0.9/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/uk.com.robust-it:cloning:jar:1.9.3</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/uk.com.robust-it:cloning:jar:1.9.3/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/org.nd4j:nd4j-buffer:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/org.nd4j:nd4j-context:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:nd4j-api:jar:1.0.0-beta/net.ericaro:neoitertools:jar:1.0.0</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.apache.commons:commons-lang3:jar:3.7</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:jackson:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:jackson:jar:1.0.0-beta/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:jackson:jar:1.0.0-beta/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.nd4j:jackson:jar:1.0.0-beta/joda-time:joda-time:jar:2.9.9</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta/org.jetbrains:annotations:jar:13.0</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta/org.freemarker:freemarker:jar:2.3.28</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta/com.clearspring.analytics:stream:jar:2.7.0</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta/net.sf.opencsv:opencsv:jar:2.3</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta/com.tdunning:t-digest:jar:3.2</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-api:jar:1.0.0-beta/it.unimi.dsi:fastutil:jar:6.5.7</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.github.jai-imageio:jai-imageio-core:jar:1.3.0</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1/com.twelvemonkeys.imageio:imageio-core:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1/com.twelvemonkeys.imageio:imageio-metadata:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1/com.twelvemonkeys.common:common-lang:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1/com.twelvemonkeys.common:common-io:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1/com.twelvemonkeys.common:common-image:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-tiff:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-psd:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/com.twelvemonkeys.imageio:imageio-bmp:jar:3.1.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:opencv:jar:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:ffmpeg:jar:3.4.2-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:flycapture:jar:2.11.3.121-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:libdc1394:jar:2.2.5-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:libfreenect:jar:0.5.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:libfreenect2:jar:0.2.0-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:librealsense:jar:1.12.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:videoinput:jar:0.200-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:artoolkitplus:jar:2.3.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco:javacv:jar:1.4.1/org.bytedeco.javacpp-presets:flandmark:jar:1.07-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:android-arm:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:android-arm64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:android-x86:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:android-x86_64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:ios-arm64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:ios-x86_64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:linux-x86:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:linux-x86_64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:linux-armhf:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:linux-ppc64le:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:macosx-x86_64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:windows-x86:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:opencv-platform:jar:3.4.1-1.4.1/org.bytedeco.javacpp-presets:opencv:jar:windows-x86_64:3.4.1-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:android-arm:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:android-arm64:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:android-x86:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:android-x86_64:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:linux-x86:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:linux-x86_64:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:linux-armhf:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:linux-ppc64le:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:macosx-x86_64:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:windows-x86:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.datavec:datavec-data-image:jar:1.0.0-beta/org.bytedeco.javacpp-presets:leptonica-platform:jar:1.75.3-1.4.1/org.bytedeco.javacpp-presets:leptonica:jar:windows-x86_64:1.75.3-1.4.1</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/org.deeplearning4j:deeplearning4j-ui-components:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-core:jar:1.0.0-beta/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta/org.nd4j:nd4j-native-api:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta/org.threadly:threadly:jar:4.10.0</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta/org.nd4j:nd4j-jackson:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta/org.nd4j:nd4j-jackson:jar:1.0.0-beta/org.nd4j:nd4j-base64:jar:1.0.0-beta</node>
+            <node x="" y="">org.deeplearning4j:deeplearning4j-nlp:jar:1.0.0-beta/org.nd4j:nd4j-jackson:jar:1.0.0-beta/org.nd4j:nd4j-base64:jar:1.0.0-beta/commons-net:commons-net:jar:3.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:android-arm:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:android-arm64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:android-x86:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:android-x86_64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:ios-arm64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:ios-x86_64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:linux-x86:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:linux-x86_64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:linux-armhf:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:linux-ppc64le:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:macosx-x86_64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:windows-x86:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.20-1.4.1/org.bytedeco.javacpp-presets:openblas:jar:windows-x86_64:0.2.20-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1/org.bytedeco.javacpp-presets:mkl:jar:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1/org.bytedeco.javacpp-presets:mkl:jar:linux-x86:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1/org.bytedeco.javacpp-presets:mkl:jar:linux-x86_64:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1/org.bytedeco.javacpp-presets:mkl:jar:macosx-x86_64:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1/org.bytedeco.javacpp-presets:mkl:jar:windows-x86:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.bytedeco.javacpp-presets:mkl-platform:jar:2018.1-1.4.1/org.bytedeco.javacpp-presets:mkl:jar:windows-x86_64:2018.1-1.4.1</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:android-arm:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:android-arm64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:android-x86:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:android-x86_64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:ios-arm64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:ios-x86_64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:linux-x86_64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:macosx-x86_64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:windows-x86_64:1.0.0-beta</node>
+            <node x="" y="">org.nd4j:nd4j-native-platform:jar:1.0.0-beta/org.nd4j:nd4j-native:jar:linux-ppc64le:1.0.0-beta</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.springframework:spring-test:jar:5.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.3.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.890652058667609" x="1336.0" y="1692.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/util/Assert.java" />
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_common/src/main/java/util/IKUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/deeplearning4j/deeplearning4j-nn/1.0.0-beta/deeplearning4j-nn-1.0.0-beta.jar!/org/deeplearning4j/util/ModelSerializer.class" />
+    <entry file="file://$PROJECT_DIR$/tensquare_common/src/main/java/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/ArticleCrawlerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.java" />
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/util/CnnUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2727">
+          <caret line="101" column="38" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/processor/ArticleProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/deeplearning4j/deeplearning4j-nlp/1.0.0-beta/deeplearning4j-nlp-1.0.0-beta.jar!/org/deeplearning4j/models/embeddings/loader/WordVectorSerializer.class" />
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pipeline/ArticleTextPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/controller/CnnController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/pipeline/ArticleDbPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="73" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_article_crawler/src/main/java/com/tensquare/articlecrawler/task/ArticleTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/task/TrainTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/CnnService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/service/Word2VecService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/java/com/tensquare/ai/AiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_ai/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

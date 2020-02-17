@@ -1,0 +1,14 @@
+server:
+  port: 9016
+spring:
+  application:
+    name: tensquare-ai
+ai:
+  #语料库汇总文本文件
+  wordLib: D:\\JavaProject\\tensquare_parent52\\article_model\\article.txt
+  #语料库目录
+  dataPath: D:\\JavaProject\\tensquare_parent52\\article
+  #词向量模型
+  vecModel: D:\\JavaProject\\tensquare_parent52\\article_model\\article.vecmodel
+  # 卷积神经网络模型
+  cnnModel: D:\\JavaProject\\tensquare_parent52\\article_model\\article.cnnmodel

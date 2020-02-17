@@ -1,0 +1,1 @@
+rpc 框架 系列 avro cd usr local src wget http labs.renren.com apache-mirror avro avro-1.5.1 avro-src-1.5.1.tar.gz tar zxvf avro-src-1.5.1.tar.gz cd avro-src-1.5.1 lang java mvn clean install dskiptests 
